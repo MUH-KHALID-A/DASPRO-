@@ -6,6 +6,6 @@
 
 <br/><br/>
 
-<img src="./https://share.google/l4Aqu2UrK77pqI3Dn" width="300" />
+<img src= ![GTR R33](/https://share.google/l4Aqu2UrK77pqI3Dn) width="300" />
 
 </div>
