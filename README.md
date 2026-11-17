@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<img src="./gtr-r33.jpg" alt="Nissan Skyline GT-R R33" width="300" />
+<img src="./https://share.google/l4Aqu2UrK77pqI3Dn" width="300" />
 
 <br/><br/>
 
