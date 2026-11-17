@@ -8,12 +8,4 @@
 
 <img src="./https://share.google/l4Aqu2UrK77pqI3Dn" width="300" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" alt="Contribution Snake" />
-
 </div>
