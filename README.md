@@ -4,7 +4,6 @@
 
 <br/><br/>
 
-<img src=<img width="474" height="316" alt="image" src="https://github.com/user-attachments/assets/7117f410-93fc-484c-bba6-9e25e3126ac7" />
- width="300" />
+<img width="474" height="316" alt="image" src="https://github.com/user-attachments/assets/7117f410-93fc-484c-bba6-9e25e3126ac7" />
 
 </div>
