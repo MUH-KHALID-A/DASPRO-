@@ -1,4 +1,4 @@
-<div align="center">
+<img width="474" height="316" alt="image" src="https://github.com/user-attachments/assets/3b036fcc-0123-4649-b5c8-d013cb5d1706" /><div align="center">
 
 <a href="https://www.instagram.com/lil_renom?mdxt=MWplazBsM3liajN2NQ==">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -6,6 +6,7 @@
 
 <br/><br/>
 
-<img src= ![GTR R33](/https://share.google/l4Aqu2UrK77pqI3Dn) width="300" />
+<img src=<img width="474" height="316" alt="image" src="https://github.com/user-attachments/assets/7117f410-93fc-484c-bba6-9e25e3126ac7" />
+ width="300" />
 
 </div>
