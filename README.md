@@ -1,5 +1,3 @@
-<img width="474" height="316" alt="image" src="https://github.com/user-attachments/assets/3b036fcc-0123-4649-b5c8-d013cb5d1706" /><div align="center">
-
 <a href="https://www.instagram.com/lil_renom?mdxt=MWplazBsM3liajN2NQ==">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
